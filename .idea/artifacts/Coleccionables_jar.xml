@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Coleccionables:jar">
+    <output-path>$PROJECT_DIR$/../../Server/plugins</output-path>
+    <root id="archive" name="Coleccionables.jar">
+      <element id="module-output" name="Coleccionables" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Dependencies/spigot-api-1.19.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

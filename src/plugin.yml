@@ -1,0 +1,8 @@
+name: Coleccionables
+version: 1.0
+author: JFM
+main: com.JFM.coleccionables.coleccionables
+api-version: 1.19
+commands:
+  coleccionables:
+    usage: /<command>
